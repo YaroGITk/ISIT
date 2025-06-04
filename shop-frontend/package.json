@@ -1,0 +1,14 @@
+{
+  "name": "shop-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "@babel/core": "^7.22.9",
+    "parcel": "^2.8.3"
+  },
+  "scripts": {
+    "start": "parcel src/index.html --port 3000"
+  }
+}
